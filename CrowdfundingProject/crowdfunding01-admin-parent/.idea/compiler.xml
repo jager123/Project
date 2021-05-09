@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="crowdfunding03-admin-component" />
+        <module name="crowdfunding13-member-project-consumer" />
+        <module name="crowdfunding10-member-mysql-provider" />
+        <module name="crowdfunding05-common-util" />
+        <module name="crowdfunding15-member-pay-consumer" />
+        <module name="crowdfunding17-member-api" />
+        <module name="crowdfunding09-member-entity" />
+        <module name="crowdfunding11-member-redis-provider" />
+        <module name="crowdfunding16-member-zuul" />
+        <module name="crowdfunding08-member-eureka" />
+        <module name="crowdfunding04-admin-entity" />
+        <module name="crowdfunding06-common-reverse" />
+        <module name="crowdfunding14-member-order-consumer" />
+        <module name="crowdfunding12-member-authentication-consumer" />
+        <module name="crowdfunding02-admin-webui" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="pro01-spring-boot-auto-project" target="1.8" />
+      <module name="pro02-spring-boot-read-yml" target="1.8" />
+      <module name="pro03-spring-boot-mybatis" target="1.8" />
+      <module name="pro04-spring-annotation" target="1.8" />
+      <module name="pro05-spring-boot-redis" target="1.8" />
+      <module name="pro05-spring-security" target="1.8" />
+      <module name="pro06-spring-cloud-parent" target="1.5" />
+      <module name="pro07-spring-cloud-common" target="1.5" />
+      <module name="pro08-spring-cloud-provider" target="1.5" />
+      <module name="pro09-spring-cloud-consumer" target="1.5" />
+      <module name="pro09-spring-cloud-feign-consumer" target="1.5" />
+      <module name="pro10-spring-cloud-eureka" target="1.5" />
+      <module name="pro11-spring-boot-maven-project" target="1.8" />
+      <module name="pro11-spring-cloud-dashboard" target="1.5" />
+      <module name="pro12-spring-cloud-zuul" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="pro01-spring-boot-auto-project" options="-parameters" />
+      <module name="pro02-spring-boot-read-yml" options="-parameters" />
+      <module name="pro03-spring-boot-mybatis" options="-parameters" />
+      <module name="pro05-spring-boot-redis" options="-parameters" />
+      <module name="pro11-spring-boot-maven-project" options="-parameters" />
+    </option>
+  </component>
+</project>

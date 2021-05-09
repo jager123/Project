@@ -1,0 +1,12 @@
+server:
+  port: 3000
+spring:
+  application:
+    name: my-crowd-redis
+  redis:
+    host: 159.75.102.96
+    port: 6379
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1000/eureka

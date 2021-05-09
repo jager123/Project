@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="org.springframework.beans.factory.annotation.Autowired" />
+    </list>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../crowdfunding02-admin-webui" />
+    <file type="web" url="file://$PROJECT_DIR$/../crowdfunding03-admin-component" />
+    <file type="web" url="file://$PROJECT_DIR$/../pro05-spring-security" />
+    <file type="web" url="file://D:/代码/day01/atcrowdfunding01-admin-parent/atcrowdfunding02-admin-webui" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../crowdfunding02-admin-webui/pom.xml" />
+        <option value="$PROJECT_DIR$/../crowdfunding05-common-util/pom.xml" />
+        <option value="$PROJECT_DIR$/../crowdfunding06-common-reverse/pom.xml" />
+        <option value="$USER_HOME$/IdeaProjects/pro04-spring-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/pro12-spring-boot-auto-project/pom.xml" />
+        <option value="$PROJECT_DIR$/../pro12-spring-boot-auto-project/pom.xml" />
+        <option value="$PROJECT_DIR$/../pro06-spring-cloud-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/../crowdfunding07-member-parent/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/crowdfunding03-admin-component/pom.xml" />
+        <option value="$PROJECT_DIR$/crowdfunding04-admin-entity/pom.xml" />
+        <option value="$PROJECT_DIR$/../pro06-spring-cloud-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/../pro07-spring-cloud-common/pom.xml" />
+        <option value="$PROJECT_DIR$/../pro08-spring-cloud-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/../pro09-spring-cloud-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../pro09-spring-cloud-feign-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../pro10-spring-cloud-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/../pro11-spring-cloud-dashboard/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
